@@ -31,7 +31,7 @@ The Graduate Student Handbook is an all-in-one guide to helpful information for 
 ...***TODO Istvan: student gives account of progress, committee member(s) assess and ask clarifying questions***
 
 ##### Q: What is the typical format of the student presentation?
-...***TODO Istvan: a recommended template is available [HERE]***
+A useful template is available here: [GradCommitteeMeeting-Template.pptx](GradCommitteeMeeting-Template.pptx).
 
 ##### Q: What happens after the supervisory meeting?
 ...***TODO Istvan: explain paperwork and give pointer to the PDF file (or Stefanie, if don't want to fix the link here)***
