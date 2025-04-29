@@ -21,6 +21,10 @@ The current regulations are available here:
 ##### Q: What is the Graduate Student Handbook?
 The Graduate Student Handbook is an all-in-one guide to helpful information for graduate students and other researchers in the Department. It includes department-specific and general information. It is available here: https://www.eng.mcmaster.ca/app/uploads/2024/08/2024-25_CAS_GradHandbook_Useful_Info_Updated.pdf.
 
+**TODO: explain that the grad handbook is binding/contractual**
+
+
+**TODO: Regarding the Q&A below, it is unclear which of these answers are relevant to which of the degrees (SE/CS, masters/PhD)**
 
 ## Supervisory meetings
 
@@ -32,6 +36,8 @@ The Graduate Student Handbook is an all-in-one guide to helpful information for 
 
 ##### Q: What is the typical format of the student presentation?
 A useful template is available here: [GradCommitteeMeeting-Template.pptx](GradCommitteeMeeting-Template.pptx).
+**TODO: This template (especially the later parts) is very engineering oriented. Perhaps it would be good to qualify this example**
+
 
 ##### Q: What happens after the supervisory meeting?
 ...***TODO Istvan: explain paperwork and give pointer to the PDF file (or Stefanie, if don't want to fix the link here)***
