@@ -3,7 +3,7 @@
 The following is a collection of frequently asked questions and answers about the graduate programs of CAS. Please note that the following are **not** regulations but a list of clarifications and best practices.
 
 ##### Q: Who maintains this FAQ? Can I suggest changes to it?
-This FAQ is maintained by the Graduate Curriculum and Policy Committee (GCPC). Changes to the regulations can be suggested ... ***TODO: how. This will depend on where we store this document. I'd recommend a mechanism that's similar to GH's fork-and-PR, so that everyone can draft FAQ items and the GCPC can approve those changes easily + reword them and curate the FAQ.***
+This FAQ is maintained by the Graduate Curriculum and Policy Committee (GCPC). Changes to the regulations can be suggested to the members of the committee.
 
 ## Regulations
 
@@ -16,23 +16,22 @@ The current regulations are available here:
 - SE PhD: https://www.eng.mcmaster.ca/app/uploads/2024/07/reg_phd_se_2019.pdf
 - CS MSc: https://www.eng.mcmaster.ca/app/uploads/2024/07/reg_master_cs_2019.pdf
 - SE MASc: https://www.eng.mcmaster.ca/app/uploads/2024/07/reg_master_se_2019.pdf
-- MEng: https://www.cas.mcmaster.ca/cas/0files/archive_reg/reg_meng_cs.pdf TODO: validate this with Jacques
+- MEng: https://www.cas.mcmaster.ca/cas/0files/archive_reg/reg_meng_cs.pdf
 
 ##### Q: What is the Graduate Student Handbook?
 The Graduate Student Handbook is an all-in-one guide to helpful information for graduate students and other researchers in the Department. It includes department-specific and general information. It is available here: https://www.eng.mcmaster.ca/app/uploads/2024/08/2024-25_CAS_GradHandbook_Useful_Info_Updated.pdf.
 
 **TODO: explain that the grad handbook is binding/contractual**
 
-
 **TODO: Regarding the Q&A below, it is unclear which of these answers are relevant to which of the degrees (SE/CS, masters/PhD)**
 
-## Supervisory meetings
+## Supervisory meetings (Master's)
 
 ##### Q: What is a supervisory meeting?
-...***TODO Istvan: quote from the regulations***
+The aim of the supervisory meeting is to ensure that students are meeting their milestones. Supervisory meetings must be scheduled once a year.
 
 ##### Q: What is the typical format of the supervisory meeting?
-...***TODO Istvan: student gives account of progress, committee member(s) assess and ask clarifying questions***
+Typically, the student gives a brief presentation in which they report the completion of their milestones, the status of research, and plans for the rest of the academic program. Committee member(s) may ask clarifying questions to better assess the progress of the student.
 
 ##### Q: What is the typical format of the student presentation?
 A useful template is available here: [GradCommitteeMeeting-Template.pptx](GradCommitteeMeeting-Template.pptx).
@@ -40,7 +39,7 @@ A useful template is available here: [GradCommitteeMeeting-Template.pptx](GradCo
 
 
 ##### Q: What happens after the supervisory meeting?
-...***TODO Istvan: explain paperwork and give pointer to the PDF file (or Stefanie, if don't want to fix the link here)***
+After the meeting, the supervisor must ensure that the committee meeting report is filled and submitted to the Graduate Admin of the Department. The report template is available here: https://gs.mcmaster.ca/app/uploads/2020/02/Masters-Supervisory-Committee-Meeting-Report-June-2022.pdf.
 
 ## Comprehensive examinations
 
