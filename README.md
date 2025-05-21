@@ -5,6 +5,11 @@ The following is a collection of frequently asked questions and answers about th
 ##### Q: Who maintains this FAQ? Can I suggest changes to it?
 This FAQ is maintained by the Graduate Curriculum and Policy Committee (GCPC). Changes to the regulations can be suggested to the members of the committee.
 
+##### Contents
+- [Regulations](#regulations)
+- [Supervisory meetings (Master's)](#supervisory-meetings-masters)
+- [Comprehensive examinations](#comprehensive-examinations)
+
 ## Regulations
 
 ##### Q: Who maintains the regulations? Can I suggest changes to it?
